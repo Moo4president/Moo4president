@@ -4,6 +4,6 @@
 Hey!👋 I'm Moooo! I'm currently a junior @ Wilmington University
 
 - 🔭 I’m currently working on a SOAR + EDR Project for my portfolio
-- 🌱 I’m currently learning python, IaC, and 
+- 🌱 I’m currently learning python, IaC, and security automation guardrails that turn real-world findings into reusable checks in CI.
 - 📫 How to reach me: https://www.linkedin.com/in/munirmuhammad/
 - ⚡ Fun fact: I took second place in my first hackathon and I was a DEFCON Speaker in 2025!
