@@ -3,9 +3,7 @@
 
 Hey!👋 I'm Moooo! I'm currently a junior @ Wilmington University
 
-- 🔭 I’m currently working on a group AI project during my internship with ai-4-all.org
-- 🌱 I’m currently learning python, javascript, and Wordpesss
-- 🤔 I'm looking for help coming up with project ideas and finding open source projects to contribute to
-- 💬 Ask me about anything under the sun! 
+- 🔭 I’m currently working on a SOAR + EDR Project for my portfolio
+- 🌱 I’m currently learning python, IaC, and 
 - 📫 How to reach me: https://www.linkedin.com/in/munirmuhammad/
-- ⚡ Fun fact: I took second place in my first hackathon!
+- ⚡ Fun fact: I took second place in my first hackathon and I was a DEFCON Speaker in 2025!
