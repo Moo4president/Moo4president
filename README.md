@@ -1,4 +1,4 @@
-# 😄 Hi, I'm Moo 🐄🐮
+# Hi, I'm Moo 👋🏾 🐮
 
 Cybersecurity Analyst | Tech Enthusiast | Devoted to Hands-on Learning 🚀
 ---
