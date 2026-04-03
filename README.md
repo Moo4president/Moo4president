@@ -1,7 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey,%20I'm%20Moo%20🥳%20🐮&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-<h3>I'm a Comp Sci Student contributing to Open Source projects in Cybersecurity and Software Engineering</h3>
-
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 
 
