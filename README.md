@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Projects and Automation**
 
-- 📫 How to reach me **munirmedia22@gmail.com**
+- 📫 How to reach me: **munirmedia22@gmail.com**
 
 - ⚡ Fun fact: **I treat securing apps like guarding the best player on the floor; no easy buckets!!**
 
